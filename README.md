@@ -1,4 +1,4 @@
-# News Highlight
+#  Blink News
 News Highlight is a flask application that uses the News_API to display news sources, get articles from a specific news source and also search for news articles from various sources.
 
 ## Screenshot
