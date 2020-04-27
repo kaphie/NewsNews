@@ -6,7 +6,7 @@ News Highlight is a flask application that uses the News_API to display news sou
 
 ## Screenshot
 
- <img src="">
+ <img src="https://github.com/kaphie/NewsNews/blob/master/static/screencapture-127-0-0-1-5000-cnbc-2020-04-27-17_09_13.png">
 
 ## Installations
 
